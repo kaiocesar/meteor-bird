@@ -1,0 +1,10 @@
+{
+  "name": "meteor-bird",
+  "description": "Projeto de iniciação Meteor",
+  "author": "Kaio Cesar <programador.kaio@gmail.com>",
+  "version": "0.0.1",
+  "packages": {
+    "bootstrap-3": {},
+    "accounts-ui-bootstrap-3": {}
+  }
+}
